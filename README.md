@@ -2,6 +2,8 @@
 A proof-of-concept that Python can be used to generate Word reports from a given template, using data output from a program like MATLAB.
 In this example, a vector image of a graph and text placeholders are replaced.
 
+![Image Demo](readme.jpg "Generate reports from template")
+
 ## Key idea
 Offices documents since Office 2007 are XML files in a zip container. A Word file can be unzipped and have its XML tinkered with.
 
