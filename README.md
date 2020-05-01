@@ -5,7 +5,7 @@ In this example, a vector image of a graph and text placeholders are replaced.
 ![Image Demo](readme.jpg "Generate reports from template")
 
 ## Key idea
-Offices documents since Office 2007 are XML files in a zip container. A Word file can be unzipped and have its XML tinkered with.
+Offices documents since Office 2007 are XML files in a zip container. A Word file can be unzipped and have its XML tinkered with. See more details on the blog post: https://blog.warmwolf.com/2020/05/generating-word-documents-with-python/
 
 ## Try it yourself
 1. A MATLAB file `calculations.m` is provided as an example of how data can be output. If you do not have MATLAB, you can use the ones in the directory `Matlab Output`.
